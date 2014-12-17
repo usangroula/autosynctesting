@@ -16,7 +16,7 @@
 
 // Set Variables
 $LOCAL_ROOT         = "/var/www/html/testing.cloudwebstore.com";
-$LOCAL_REPO_NAME    = "testing.cloudwebstore.com";
+$LOCAL_REPO_NAME    = ".";
 $LOCAL_REPO         = "{$LOCAL_ROOT}/{$LOCAL_REPO_NAME}";
 $REMOTE_REPO        = "git@github.com:/usangroula/testing.cloudwebstore.com";
 $BRANCH             = "master";
