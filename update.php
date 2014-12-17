@@ -4,7 +4,7 @@
 $LOCAL_ROOT         = "/var/www/html";
 $LOCAL_REPO_NAME    = "testing.cloudwebstore.com";
 $LOCAL_REPO         = "{$LOCAL_ROOT}/{$LOCAL_REPO_NAME}";
-$REMOTE_REPO        = "git@github.com:usangroula/testing.cloudwebstore.com.git";
+$REMOTE_REPO        = "git@github.com:usangroula/autosynctesting.git";
 $DESIRED_BRANCH     = "master";
 
 // Delete local repo if it exists
