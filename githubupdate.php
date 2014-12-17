@@ -18,7 +18,7 @@
 $LOCAL_ROOT         = "/var/www/html/testing.cloudwebstore.com";
 $LOCAL_REPO_NAME    = ".";
 $LOCAL_REPO         = "{$LOCAL_ROOT}/{$LOCAL_REPO_NAME}";
-$REMOTE_REPO        = "git@github.com:/usangroula/testing.cloudwebstore.com";
+$REMOTE_REPO        = "git@github.com:/usangroula/testing.cloudwebstore.com.git";
 $BRANCH             = "master";
 
 if ( $_POST['payload'] ) {
