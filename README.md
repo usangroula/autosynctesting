@@ -1,3 +1,3 @@
-testing.cloudwebstore.com
+autosynctest
 =========================
 testing the webhooks
